@@ -1,0 +1,23 @@
+{
+  "name": "@nikalomiris/learning_npm_modules",
+  "version": "1.0.0",
+  "description": "My first attempt to create and publish an npm module. No real-world use-case, just for learning purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikalomiris/learning_npm_modules.git"
+  },
+  "keywords": [
+    "test",
+    "tutorial"
+  ],
+  "author": "Nikos Kalomiris <nikalomiris@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikalomiris/learning_npm_modules/issues"
+  },
+  "homepage": "https://github.com/nikalomiris/learning_npm_modules#readme"
+}
